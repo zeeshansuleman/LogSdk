@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'snx_temp_logs'
+  s.name             = 'snx_temp_log'
   s.version          = '1.0'
   s.summary          = 'logs framework that will include the logging features'
 
