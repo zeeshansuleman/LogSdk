@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'snx_temp_log'
   s.version          = '1.0'
-  s.summary          = 'logs framework that will include the logging features'
+  s.summary          = 'logs framework that will include the logging features2'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Muhammad Zeeshan' => 'zeeshansuleman93@gmail.com' }
  
   	s.platform          = :ios
-    s.source            = { :http => 'https://github.com/zeeshansuleman/LogSdk/blob/master/Logs.zip' }
+    s.source            = { :http => 'https://github.com/zeeshansuleman/LogSdk/archive/0.0.1.zip' }
    # s.source_files      = "add your header files which would be public"
     s.ios.deployment_target = '11.1'
     s.ios.vendored_frameworks = 'Logs.framework'
